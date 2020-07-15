@@ -1,6 +1,6 @@
 {
   "name": "Submit from Preview",
-  "about_url": null,
-  "license_url": null,
+  "about_url": "https://meta.discourse.org/t/submit-from-preview-mobile/157881",
+  "license_url": "https://github.com/tshenry/discourse-submit-from-preview/blob/master/LICENSE",
   "component": true
 }
