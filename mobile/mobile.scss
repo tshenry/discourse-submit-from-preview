@@ -1,0 +1,12 @@
+#reply-control.show-preview {
+  .d-editor-preview-wrapper {
+    border-bottom: 2.75em solid $secondary;
+  }
+
+  .submit-panel .save-or-cancel {
+    z-index: z("fullscreen") + 1;
+    .cancel {
+      display: none;
+    }
+  }
+}
